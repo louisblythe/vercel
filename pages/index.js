@@ -17,6 +17,13 @@ export default function Home() {
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
+      <div id="fd-form-5fe6e51c42f135a2ce639335"></div>
+<script>
+  window.fd('form', {
+    formId: '5fe6e51c42f135a2ce639335',
+    containerEl: '#fd-form-5fe6e51c42f135a2ce639335'
+  });
+</script>
         </p>
 
         <div className={styles.grid}>
